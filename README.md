@@ -1,2 +1,2 @@
 # BasicDiscordBotCode
-Ahoj toto jeden z obyčejných a primitivní a lehce vytvořených botů. Dá se také lehce upravit čímž z něj dělá BasicDiscordBota
+Hi this one of the ordinary and primitive and lightly crafted shoes. It can also be easily modified to make it a BasicDiscordBot
